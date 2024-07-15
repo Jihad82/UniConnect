@@ -5,14 +5,8 @@ Welcome to UniConnect, the all-in-one mobile application designed to streamline 
 ## Inside Our App: UniConnect
 
 <p align="center">
-  <img src="https://github.com/Jihad82/Uniconnect/assets/91656309/6ade47dc-ce32-44bb-a812-fce9b8189e08" alt="image1" width="150"/>
-  <img src="https://github.com/Jihad82/Uniconnect/assets/91656309/24d584e0-45f1-403d-bd6a-c9702dd703eb" alt="image2" width="150"/>
-  <img src="https://github.com/Jihad82/Uniconnect/assets/91656309/c933f5e4-4c9a-4f2f-9173-2a92104ca0e0" alt="image3" width="150"/>
-  <img src="https://github.com/Jihad82/Uniconnect/assets/91656309/06bffe74-238e-46ce-85bd-f613e3f922b4" alt="image4" width="150"/>
-  <img src="https://github.com/Jihad82/Uniconnect/assets/91656309/915fb766-8aef-45ce-a3ee-1e201a78a5db" alt="image5" width="150"/>
+  <img src="https://github.com/user-attachments/assets/49d994c0-d446-447b-a7d5-c7e25720957f" alt="image1" width="850"/>
 </p>
-
-
 
 ## Features
 
