@@ -1,0 +1,27 @@
+{
+  "name": "uniconnect-mobileapp-v2",
+  "version": "1.0.0",
+  "description": "Welcome to UniConnect, the all-in-one mobile application designed to streamline campus life at Green University of Bangladesh. This app provides students with easy access to transportation schedules, faculty contacts, alumni networks, e-library resources, campus maps, and much more.",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js",
+    "deploy": "firebase deploy",
+    "build": "webpack --config webpack.config.js",
+    "shell": "sh script.sh"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/core": "^7.24.7",
+    "@babel/preset-env": "^7.24.7",
+    "babel-loader": "^9.1.3",
+    "webpack": "^5.92.1",
+    "webpack-cli": "^5.1.4"
+  }
+}

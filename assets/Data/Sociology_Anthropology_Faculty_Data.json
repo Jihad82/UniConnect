@@ -1,0 +1,47 @@
+{
+  "Sociology_Anthropology_faculty_members":[
+    {
+      "name": "Prof. Dr. Abul Hossain",
+      "designation": "Chairperson",
+      "email": "chairman@soc.green.edu.bd",
+      "imageUrl": "https://archive-site.green.edu.bd/wp-content/uploads/2017/09/Soc-Associate-professor.jpg"
+    },
+    {
+      "name": "Mr. Md. Samiul Islam",
+      "designation": "Assistant Professor",
+      "email": "samiul@soc.green.edu.bd",
+      "imageUrl": "https://archive-site.green.edu.bd/wp-content/uploads/2017/09/Untitled-1.jpg"
+    },
+    {
+      "name": "Mr. Ahsan Habib",
+      "designation": "Assistant Professor",
+      "email": "ahabib@soc.green.edu.bd",
+      "imageUrl": "https://archive-site.green.edu.bd/wp-content/uploads/2017/11/ahabib.jpg"
+    },
+    {
+      "name": "Mr. Humayun Kabir",
+      "designation": "Lecturer",
+      "email": "humayun@soc.green.edu.bd",
+      "imageUrl": "https://archive-site.green.edu.bd/wp-content/uploads/2019/10/shihavuddin_eee-1.jpg"
+    },
+    {
+      "name": "Sadia Binta Zaman",
+      "designation": "Lecturer (Contractual) ",
+      "email": "sadia@soc.green.edu.bd",
+      "imageUrl": "https://archive-site.green.edu.bd/wp-content/uploads/2022/11/Untitled-1.jpg"
+    },
+    {
+      "name": "Azmera Sultana",
+      "designation": "Lecturer(Contractual)",
+      "email": "azmera@soc.green.edu.bd",
+      "imageUrl": "https://archive-site.green.edu.bd/wp-content/uploads/2023/11/Azmera.png"
+    },
+    {
+      "name": "Essaba Masnun",
+      "designation": "Lecturer(Contractual)",
+      "email": "esaba@soc.green.edu.bd",
+      "imageUrl": "https://archive-site.green.edu.bd/wp-content/uploads/2023/11/Esaba.png"
+    }
+  ]
+
+}

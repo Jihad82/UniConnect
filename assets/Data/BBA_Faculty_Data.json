@@ -1,0 +1,130 @@
+{
+  "BBA_faculty_members": [
+    {
+      "name": "Prof. Dr. Md. Golam Samdani Fakir",
+      "designation": "Distinguished Professor",
+      "email": "samdani@green.edu.bd",
+      "imageUrl": "https://archive-site.green.edu.bd/wp-content/uploads/2017/09/VC-Sir.jpg"
+    },
+    {
+      "name": "Prof. Dr. Mohammed Tareque Aziz",
+      "designation": "Dean & Professor",
+      "email": "dean@bus.green.edu.bd",
+      "imageUrl": "https://archive-site.green.edu.bd/wp-content/uploads/2022/02/Untitled-1-3.jpg"
+    },
+    {
+      "name": "Mr. Mahmud Wahid",
+      "designation": "Assistant Professor & Chairperson",
+      "email": "wahid@bus.green.edu.bd",
+      "imageUrl": "https://archive-site.green.edu.bd/wp-content/uploads/2018/05/Mr.-Mahmud-Wahid.jpg"
+    },
+    {
+      "name": "Prof. Dr. Helal Uddin Ahmed",
+      "designation": "Professor",
+      "email": "helal@bus.green.edu.bd",
+      "imageUrl": "https://archive-site.green.edu.bd/wp-content/uploads/2017/09/helal-uddin.jpg"
+    },
+    {
+      "name": "Mrs. Showkat Ara Khanam",
+      "designation": "Assistant Professor,Management",
+      "email": "showkat@bus.green.edu.bd",
+      "imageUrl": "https://archive-site.green.edu.bd/wp-content/uploads/2018/05/Shawkat-Ara-Madam.jpg"
+    },
+    {
+      "name": "Dr. Mohammad Delwar Hussain",
+      "designation": "Assistant Professor, Accounting",
+      "email": "delwar@bus.green.edu.bd",
+      "imageUrl": "https://archive-site.green.edu.bd/wp-content/uploads/2018/04/Delwar-Hussain.jpg"
+    },
+    {
+      "name": "Ms. Rokeya Binte Shahid",
+      "designation": "Assistant Professor,Marketing",
+      "email": "rokeya@bus.green.edu.bd",
+      "imageUrl": "https://archive-site.green.edu.bd/wp-content/uploads/2017/09/Rokeya-binte-shahid.jpg"
+    },
+    {
+      "name": "Ms. Rumana Ferdouse",
+      "designation": "Assistant Professor,Marketing",
+      "email": "rumana@bus.green.edu.bd",
+      "imageUrl": "https://archive-site.green.edu.bd/wp-content/uploads/2017/09/rumana-bus.jpg"
+    },
+    {
+      "name": "Mr. Mohammad Tamzid",
+      "designation": "Assistant Professor,Mgt. & HRM",
+      "email": "tamzid@bus.green.edu.bd",
+      "imageUrl": "https://archive-site.green.edu.bd/wp-content/uploads/2017/09/Tamzid-1.jpg"
+    },
+    {
+      "name": "Mr. Md. Asad Noor",
+      "designation": "Assistant Professor & Program Coordinator of BBA Program. Finance",
+      "email": "asad@bus.green.edu.bd",
+      "imageUrl": "https://archive-site.green.edu.bd/wp-content/uploads/2017/09/GBUS.jpg"
+    },
+    {
+      "name": "Mr. Md. Fakhrudoza Bari",
+      "designation": "Assistant Professor, Economics and Program Coordinator (MBA)",
+      "email": "fbari@bus.green.edu.bd",
+      "imageUrl": "https://archive-site.green.edu.bd/wp-content/uploads/2017/09/Fakhrudoza-Bari1.jpg"
+    },
+    {
+      "name": "Nusrat Jahan",
+      "designation": "Assistant Professor ",
+      "email": "nusrat@bus.green.edu.bd",
+      "imageUrl": "https://archive-site.green.edu.bd/wp-content/uploads/2018/05/Nusrat.png"
+    },
+    {
+      "name": "Ms. Laila Ferdousy",
+      "designation": "Lecturer, Economics",
+      "email": "laila@bus.green.edu.bd",
+      "imageUrl": "https://archive-site.green.edu.bd/wp-content/uploads/2018/05/laila.bus_.jpg"
+    },
+    {
+      "name": "Zinat Sultana",
+      "designation": "Assistant Professor",
+      "email": "zinat.crit@green.edu.bd",
+      "imageUrl": "https://archive-site.green.edu.bd/wp-content/uploads/2020/02/11_1719300979_faculty_member.jpg"
+    },
+    {
+      "name": "Md Kamrul Islam",
+      "designation": "Lecturer, Finance",
+      "email": "kamrul@bus.green.edu.bd",
+      "imageUrl": "https://archive-site.green.edu.bd/wp-content/uploads/2018/12/Person.jpg"
+    },
+    {
+      "name": "Sanzeeda Munir Prova",
+      "designation": "Lecturer, CETL & GBS",
+      "email": "sanzeeda.gucetl@green.edu.bd",
+      "imageUrl": "https://archive-site.green.edu.bd/wp-content/uploads/2022/06/Bus-Faculty.png"
+    },
+    {
+      "name": "Sumaya Binta Junnat",
+      "designation": "Lecturer (Contractual)",
+      "email": "junnat@bus.green.edu.bd",
+      "imageUrl": "https://archive-site.green.edu.bd/wp-content/uploads/2023/11/sumaya_gbs.jpg"
+    },
+    {
+      "name": "Arif Hossain",
+      "designation": "Lecturer (Contractual)",
+      "email": "arif@bus.green.edu.bd",
+      "imageUrl": "https://archive-site.green.edu.bd/wp-content/uploads/2018/12/Person.jpg"
+    },
+    {
+      "name": "A.S.M. Kamrul Islam",
+      "designation": "Lecturer",
+      "email": "kamrul.cetl@green.edu.bd",
+      "imageUrl": "https://archive-site.green.edu.bd/wp-content/uploads/2018/12/Person.jpg"
+    },
+    {
+      "name": "Md Baktiar Alam Bulbul",
+      "designation": "Lecturer",
+      "email": "bulbul.cetl@green.edu.bd",
+      "imageUrl": "https://archive-site.green.edu.bd/wp-content/uploads/2018/12/Person.jpg"
+    },
+    {
+      "name": "Asfakuzzaman",
+      "designation": "Lecturer",
+      "email": "asfak@bus.green.edu.bd",
+      "imageUrl": "https://archive-site.green.edu.bd/wp-content/uploads/2023/11/bus.jpg"
+    }
+  ]
+}

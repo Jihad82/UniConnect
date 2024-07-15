@@ -1,0 +1,460 @@
+{
+    "Cse_faculty_members":[
+    {
+      "name": "Dr. Muhammad Aminur Rahaman",
+      "designation": "Chairperson",
+      "email": "aminur@cse.green.edu.bd",
+      "image_url": "https://archive-site.green.edu.bd/wp-content/uploads/2018/09/Dr_Aminur_Sir.png"
+    },
+    {
+      "name": "Prof. Dr. Md. Saiful Azad",
+      "designation": "Professor and Dean,FSE",
+      "email": "dean@fse.green.edu.bd",
+      "image_url": "https://archive-site.green.edu.bd/wp-content/uploads/2021/01/Prof_Azad.png"
+    },
+    {
+      "name": "Professor Dr. Md. Ahsan Habib (Tareq)",
+      "designation": "Professor",
+      "email": "mahabib@cse.green.edu.bd",
+      "image_url": "https://archive-site.green.edu.bd/wp-content/uploads/2024/02/CSE.png"
+    },
+    {
+      "name": "Mr. Syed Ahsanul Kabir",
+      "designation": "Associate Professor",
+      "email": "kabir@cse.green.edu.bd",
+      "image_url": "https://archive-site.green.edu.bd/wp-content/uploads/2017/09/Sayed-Ahsanul-Kabir.png"
+    },
+    {
+      "name": "Dr. Md. Mostafijur Rahman",
+      "designation": "Associate Professor",
+      "email": "mostafijur@cse.green.edu.bd",
+      "image_url": "https://archive-site.green.edu.bd/wp-content/uploads/2021/10/faculty-5.png"
+    },
+    {
+      "name": "Dr. Muhammad Abul Hasan",
+      "designation": "Associate Chairperson",
+      "email": "muhammad.hasan@cse.green.edu.bd",
+      "image_url": "https://archive-site.green.edu.bd/wp-content/uploads/2022/11/cse.png"
+    },
+    {
+      "name": "Ms. Umme Ruman",
+      "designation": "Assistant Professor",
+      "email": "ruman@cse.green.edu.bd",
+      "image_url": "https://archive-site.green.edu.bd/wp-content/uploads/2017/09/Umme_Ruman_Madam.png"
+    },
+    {
+      "name": "Ms. Shamima Akter",
+      "designation": "Assistant Professor",
+      "email": "shamima_akter@cse.green.edu.bd",
+      "image_url": "https://archive-site.green.edu.bd/wp-content/uploads/2019/09/Shamima_Akter_Madam.png"
+    },
+    {
+      "name": "Md. Solaiman Mia",
+      "designation": "Assistant Professor",
+      "email": "solaiman@cse.green.edu.bd",
+      "image_url": "https://archive-site.green.edu.bd/wp-content/uploads/2020/02/Solaiman_Sir.png"
+    },
+    {
+      "name": "Dr. Faiz Al Faisal",
+      "designation": "Assistant Professor",
+      "email": "faisal@cse.green.edu.bd",
+      "image_url": "https://archive-site.green.edu.bd/wp-content/uploads/2021/07/Untitled-1.png"
+    },
+    {
+      "name": "Ms. Shamima Islam",
+      "designation": "Assistant Professor",
+      "email": "shamima@cse.green.edu.bd",
+      "image_url": "https://archive-site.green.edu.bd/wp-content/uploads/2017/09/Shamima_Islam_Madam.png"
+    },
+    {
+      "name": "Mr. MD. JAHIDUL ISLAM",
+      "designation": "Assistant Professor",
+      "email": "jahid@cse.green.edu.bd",
+      "image_url": "https://archive-site.green.edu.bd/wp-content/uploads/2017/09/jahid_sir.png"
+    },
+    {
+      "name": "Ms. Jakia Sultana",
+      "designation": "Assistant Professor",
+      "email": "jakia@cse.green.edu.bd",
+      "image_url": "https://archive-site.green.edu.bd/wp-content/uploads/2017/09/Jakia_Madam.png"
+    },
+    {
+      "name": "Ms. Farhana Akter Sunny",
+      "designation": "Assistant Professor & Program Coordinator",
+      "email": "farhana@cse.green.edu.bd",
+      "image_url": "https://archive-site.green.edu.bd/wp-content/uploads/2017/09/Sunny_medam.png"
+    },
+    {
+      "name": "Ms. Sharmin Alam",
+      "designation": "Senior Lecturer",
+      "email": "sharmin@cse.green.edu.bd",
+      "image_url": "https://archive-site.green.edu.bd/wp-content/uploads/2017/09/Sharmin_Alam_Madam.png"
+    },
+    {
+      "name": "Mr. Humayan Kabir Rana",
+      "designation": "Senior Lecturer",
+      "email": "humayan@cse.green.edu.bd",
+      "image_url": "https://archive-site.green.edu.bd/wp-content/uploads/2017/09/Rana_Sir.png"
+    },
+    {
+      "name": "Mr. Md. Monirul Islam",
+      "designation": "Lecturer",
+      "email": "monirul@cse.green.edu.bd",
+      "image_url": "https://archive-site.green.edu.bd/wp-content/uploads/2017/09/Monirul_Sir.png"
+    },
+    {
+      "name": "Mr. Jargis Ahmed",
+      "designation": "Lecturer & Program Coordinator(DAY)",
+      "email": "jargis@cse.green.edu.bd",
+      "image_url": "https://archive-site.green.edu.bd/wp-content/uploads/2018/10/Jargis_sir.png"
+    },
+    {
+      "name": "Ms. Samiha Islam Tanni",
+      "designation": "Lecturer",
+      "email": "samiha@cse.green.edu.bd",
+      "image_url": "https://archive-site.green.edu.bd/wp-content/uploads/2018/10/Tanni_Madam.png"
+    },
+    {
+      "name": "Mr. Md. Robiul Islam",
+      "designation": "Lecturer",
+      "email": "robiul@cse.green.edu.bd",
+      "image_url": "https://archive-site.green.edu.bd/wp-content/uploads/2018/10/demo.jpg"
+    },
+    {
+      "name": "Ms. Babe Sultana",
+      "designation": "Lecturer",
+      "email": "babe@cse.green.edu.bd",
+      "image_url": "https://archive-site.green.edu.bd/wp-content/uploads/2019/07/Babe_Sultana_Madam.png"
+    },
+    {
+      "name": "Ms. Umme Habiba",
+      "designation": "Lecturer",
+      "email": "umme@cse.green.edu.bd",
+      "image_url": "https://archive-site.green.edu.bd/wp-content/uploads/2023/11/Untitlejjd-1.jpg"
+    },
+    {
+      "name": "Ms. Rokeya Khatun",
+      "designation": "Lecturer",
+      "email": "rokeya@cse.green.edu.bd",
+      "image_url": "https://archive-site.green.edu.bd/wp-content/uploads/2018/10/demo.jpg"
+    },
+    {
+      "name": "Mohammad Ehsan Shahmi Chowdhury",
+      "designation": "Lecturer & Program Coordinator",
+      "email": "ehsan@cse.green.edu.bd",
+      "image_url": "https://archive-site.green.edu.bd/wp-content/uploads/2020/02/Ehsan_Sir.png"
+    },
+    {
+      "name": "Ms. Tanpia Tasnim",
+      "designation": "Program Coordinator(Ev) & Lecturer",
+      "email": "tanpia@cse.green.edu.bd",
+      "image_url": "https://archive-site.green.edu.bd/wp-content/uploads/2018/10/demo.jpg"
+    },
+    {
+      "name": "Ms. Feroza Naznin",
+      "designation": "Lecturer",
+      "email": "feroza@cse.green.edu.bd",
+      "image_url": "https://archive-site.green.edu.bd/wp-content/uploads/2018/10/demo.jpg"
+    },
+    {
+      "name": "Mr. Palash Roy",
+      "designation": "Lecturer",
+      "email": "palash@cse.green.edu.bd",
+      "image_url": "https://archive-site.green.edu.bd/wp-content/uploads/2020/10/polash_sir.png"
+    },
+    {
+      "name": "Ms. Shifat Ara Rafiq",
+      "designation": "Lecturer",
+      "email": "sifatara@cse.green.edu.bd",
+      "image_url": "https://archive-site.green.edu.bd/wp-content/uploads/2021/07/3.png"
+    },
+    {
+      "name": "Md. Parvez Hossain",
+      "designation": "Lecturer & Program Coordinator",
+      "email": "parvez@cse.green.edu.bd",
+      "image_url": "https://archive-site.green.edu.bd/wp-content/uploads/2020/02/Parvez_Sir.png"
+    },
+    {
+      "name": "Md. Abu Rumman Refat",
+      "designation": "Lecturer",
+      "email": "refat@cse.green.edu.bd",
+      "image_url": "https://archive-site.green.edu.bd/wp-content/uploads/2022/02/Abu-Rumman-Refat.png"
+    },
+    {
+      "name": "Mr. Saurav Chandra Das",
+      "designation": "Lecturer",
+      "email": "saurav@cse.green.edu.bd",
+      "image_url": "https://archive-site.green.edu.bd/wp-content/uploads/2022/02/eeeeeeeee.png"
+    },
+    {
+      "name": "Md. Riad Hassan",
+      "designation": "Lecturer",
+      "email": "riad@cse.green.edu.bd",
+      "image_url": "https://archive-site.green.edu.bd/wp-content/uploads/2022/02/yyyyy.png"
+    },
+    {
+      "name": "Ms. Fatema Akter",
+      "designation": "Lecturer",
+      "email": "fatema_akter@cse.green.edu.bd",
+      "image_url": "https://archive-site.green.edu.bd/wp-content/uploads/2022/02/ratema.png"
+    },
+    {
+      "name": "Mr. Mozdaher Abdul Quader",
+      "designation": "Lecturer",
+      "email": "quader@cse.green.edu.bd",
+      "image_url": "https://archive-site.green.edu.bd/wp-content/uploads/2020/10/Mozdaher_Sir.png"
+    },
+    {
+      "name": "Mr. Md. Naimul Pathan",
+      "designation": "Lecturer",
+      "email": "naimul@cse.green.edu.bd",
+      "image_url": "https://archive-site.green.edu.bd/wp-content/uploads/2018/10/demo.jpg"
+    },
+    {
+      "name": "Mr. Md Nazmus Shakib",
+      "designation": "Lecturer",
+      "email": "nazmus_shakib@cse.green.edu.bd",
+      "image_url": "https://archive-site.green.edu.bd/wp-content/uploads/2018/10/demo.jpg"
+    },
+    {
+      "name": "Mr. Md. Rajibul Palash",
+      "designation": "Lecturer",
+      "email": "rajibul@cse.green.edu.bd",
+      "image_url": "https://archive-site.green.edu.bd/wp-content/uploads/2021/06/Razibul.png"
+    },
+    {
+      "name": "Md. Shihab Hossain",
+      "designation": "Lecturer",
+      "email": "shihab@cse.green.edu.bd",
+      "image_url": "https://archive-site.green.edu.bd/wp-content/uploads/2022/10/shahab.png"
+    },
+    {
+      "name": "Ms. Jarin Tasnim Tonvi",
+      "designation": "Lecturer",
+      "email": "jarin@cse.green.edu.bd",
+      "image_url": "https://archive-site.green.edu.bd/wp-content/uploads/2022/10/jerin.png"
+    },
+    {
+      "name": "Mr. S. M. Rashidul Hasan Nijhum",
+      "designation": "Lecturer",
+      "email": "nijhum@cse.green.edu.bd",
+      "image_url": "https://archive-site.green.edu.bd/wp-content/uploads/2022/10/nijhum.png"
+    },
+    {
+      "name": "Md. Shahidul Islam",
+      "designation": "Lecturer",
+      "email": "shahidul@cse.green.edu.bd",
+      "image_url": "https://archive-site.green.edu.bd/wp-content/uploads/2022/10/shahidul.png"
+    },
+    {
+      "name": "Wahia Tasnim",
+      "designation": "Lecturer (Contractual)",
+      "email": "wahia@cse.green.edu.bd",
+      "image_url": "https://archive-site.green.edu.bd/wp-content/uploads/2018/10/demo.jpg"
+    },
+    {
+      "name": "Mr. K.M Shadman Wadith",
+      "designation": "Lecturer",
+      "email": "shadman@cse.green.edu.bd",
+      "image_url": "https://archive-site.green.edu.bd/wp-content/uploads/2018/12/Person.jpg"
+    },
+    {
+      "name": "MD Fahimul Islam Fahim",
+      "designation": "Lecturer",
+      "email": "fahimul@cse.green.edu.bd",
+      "image_url": "https://archive-site.green.edu.bd/wp-content/uploads/2023/11/Untitled-1.jpg"
+    },
+    {
+      "name": "Ms. Fairuz Shaiara",
+      "designation": "Lecturer",
+      "email": "fairuz@cse.green.edu.bd",
+      "image_url": "https://archive-site.green.edu.bd/wp-content/uploads/2023/12/Untitled-1.jpg"
+    },
+    {
+      "name": "Ms. Mahjabin Rahman Oishe",
+      "designation": "Lecturer",
+      "email": "oishe@cse.green.edu.bd",
+      "image_url": "https://archive-site.green.edu.bd/wp-content/uploads/2023/12/2.jpg"
+    },
+    {
+      "name": "Ms. Meherunnesa Tania",
+      "designation": "Lecturer",
+      "email": "tania@cse.green.edu.bd",
+      "image_url": "https://archive-site.green.edu.bd/wp-content/uploads/2023/12/3.jpg"
+    },
+    {
+      "name": "Md. Shoab Alam",
+      "designation": "Lecturer",
+      "email": "shoab@cse.green.edu.bd",
+      "image_url": "https://archive-site.green.edu.bd/wp-content/uploads/2024/02/Sheb.png"
+    },
+    {
+      "name": "Md. Sabbir Hosen Mamun",
+      "designation": "Lecturer",
+      "email": "mamun@cse.green.edu.bd",
+      "image_url": "https://archive-site.green.edu.bd/wp-content/uploads/2024/03/Sabbir-Hosen-Mamun.png"
+    },
+    {
+      "name": "Muhaimen Khan",
+      "designation": "Lecturer",
+      "email": "muhaimen@cse.green.edu.bd",
+      "image_url": "https://archive-site.green.edu.bd/wp-content/uploads/2024/03/Muhaimen-Khan.png"
+    },
+    {
+      "name": "Shankha Shubhra Sarkar",
+      "designation": "Lecturer",
+      "email": "shubhra@cse.green.edu.bd",
+      "image_url": "https://archive-site.green.edu.bd/wp-content/uploads/2017/08/profile-default.jpg"
+    },
+    {
+      "name": "Sheikh Fazle Rabbi",
+      "designation": "Lecturer",
+      "email": "rabbi@cse.green.edu.bd",
+      "image_url": "https://archive-site.green.edu.bd/wp-content/uploads/2018/10/demo.jpg"
+    },
+    {
+      "name": "Farhan Mahmud",
+      "designation": "Lecturer, Lab",
+      "email": "fmahmud@cse.green.edu.bd",
+      "image_url": "https://archive-site.green.edu.bd/wp-content/uploads/2018/10/demo.jpg"
+    },
+    {
+      "name": "Mr. Mahbubur Rahman",
+      "designation": "Lecturer",
+      "email": "mahbubur@cse.green.edu.bd",
+      "image_url": "https://archive-site.green.edu.bd/wp-content/uploads/2022/04/dddddddddddd.png"
+    },
+    {
+      "name": "Ms. Farjana Akter Jui",
+      "designation": "Lecturer (Contractual)",
+      "email": "jui@cse.green.edu.bd",
+      "image_url": "https://archive-site.green.edu.bd/wp-content/uploads/2022/10/jui.png"
+    },
+    {
+      "name": "Ms. Rabea Khatun",
+      "designation": "Lecturer (Contractual)",
+      "email": "rabea@cse.green.edu.bd",
+      "image_url": "https://archive-site.green.edu.bd/wp-content/uploads/2022/10/rabeya.png"
+    },
+    {
+      "name": "Ms. Sagufta Sabah Nakshi",
+      "designation": "Lecturer (Contractual)",
+      "email": "sagufta@cse.green.edu.bd",
+      "image_url": "https://archive-site.green.edu.bd/wp-content/uploads/2018/12/Person.jpg"
+    },
+    {
+      "name": "Ms. Abida Sultana",
+      "designation": "Lecturer (Contractual)",
+      "email": "abida@cse.green.edu.bd",
+      "image_url": "https://archive-site.green.edu.bd/wp-content/uploads/2018/12/Person.jpg"
+    },
+    {
+      "name": "Md. Nasif Osman Khansur",
+      "designation": "Lecturer (Contractual)",
+      "email": "nasif@cse.green.edu.bd",
+      "image_url": "https://archive-site.green.edu.bd/wp-content/uploads/2018/12/Person.jpg"
+    },
+    {
+      "name": "Mr. Abdullah Al Farhad",
+      "designation": "Lecturer (contractual)",
+      "email": "farhad@cse.green.edu.bd",
+      "image_url": "https://archive-site.green.edu.bd/wp-content/uploads/2018/12/Person.jpg"
+    },
+    {
+      "name": "Md. Abul Basar",
+      "designation": "Lecturer (contractual)",
+      "email": "basar@cse.green.edu.bd",
+      "image_url": "https://archive-site.green.edu.bd/wp-content/uploads/2018/12/Person.jpg"
+    },
+    {
+      "name": "Mr. Sharifur Rahman",
+      "designation": "Lecturer (contractual)",
+      "email": "sharifur@cse.green.edu.bd",
+      "image_url": "https://archive-site.green.edu.bd/wp-content/uploads/2018/12/Person.jpg"
+    },
+    {
+      "name": "Md. Saiful Islam Bhuiyan",
+      "designation": "Lecturer (contractual)",
+      "email": "saiful_islam@cse.green.ac.bd",
+      "image_url": "https://archive-site.green.edu.bd/wp-content/uploads/2018/12/Person.jpg"
+    },
+    {
+      "name": "Ms. Tasnim Tayiba Zannat",
+      "designation": "Lecturer",
+      "email": "zannat@cse.green.edu.bd",
+      "image_url": "https://archive-site.green.edu.bd/wp-content/uploads/2017/08/profile-default.jpg"
+    },
+    {
+      "name": "Mr. Shoab Alam",
+      "designation": "Lecturer",
+      "email": "shoab@cse.green.edu.bd",
+      "image_url": "https://archive-site.green.edu.bd/wp-content/uploads/2017/08/profile-default.jpg"
+    },
+    {
+      "name": "Mr. Sharifur Rahman",
+      "designation": "Lecturer",
+      "email": "sharifur@cse.green.edu.bd",
+      "image_url": "https://archive-site.green.edu.bd/wp-content/uploads/2017/08/profile-default.jpg"
+    },
+    {
+      "name": "Mr. Montaser Abdul Quader",
+      "designation": "Lecturer Lab Courses",
+      "email": "montaser@cse.green.edu.bd",
+      "image_url": "https://archive-site.green.edu.bd/wp-content/uploads/2020/10/Montaser_Sir.png"
+    },
+    {
+      "name": "Mr. Sakhaouth Hossan",
+      "designation": "Lecturer",
+      "email": "sakhaouth@cse.green.edu.bd",
+      "image_url": "https://archive-site.green.edu.bd/wp-content/uploads/2017/08/profile-default.jpg"
+    },
+    {
+      "name": "Ms. Rusmita Halim Chaity",
+      "designation": "Lecturer Lab Course (Contractual)",
+      "email": "chaity@cse.green.edu.bd",
+      "image_url": "https://archive-site.green.edu.bd/wp-content/uploads/2021/10/faculty-2-1.png"
+    },
+    {
+      "name": "Md. Sabbir Hosen Mamun",
+      "designation": "Lecturer",
+      "email": "mamun@cse.green.edu.bd",
+      "image_url": "https://archive-site.green.edu.bd/wp-content/uploads/2017/08/profile-default.jpg"
+    },
+    {
+      "name": "Amena Zahan Prithibi",
+      "designation": "Lecturer Lab Courses",
+      "email": "amena@cse.green.edu.bd",
+      "image_url": "https://archive-site.green.edu.bd/wp-content/uploads/2022/02/amena.png"
+    },
+    {
+      "name": "Md. Zahidul Hasan",
+      "designation": "Lecturer",
+      "email": "zahidul_hasan@cse.green.edu.bd",
+      "image_url": "https://archive-site.green.edu.bd/wp-content/uploads/2022/12/cse1.png"
+    },
+    {
+      "name": "Mr. Sudip Ghoshal",
+      "designation": "Lecturer (contractual)",
+      "email": "sudip@cse.green.edu.bd",
+      "image_url": "https://archive-site.green.edu.bd/wp-content/uploads/2018/12/Person.jpg"
+    },
+    {
+      "name": "Mr. Kazi Hasnayeen Emad",
+      "designation": "Lecturer (contractual)",
+      "email": "emad@cse.green.edu.bd",
+      "image_url": "https://archive-site.green.edu.bd/wp-content/uploads/2018/12/Person.jpg"
+    },
+    {
+      "name": "Mr. Md. Mamunur Rahman",
+      "designation": "Lecturer",
+      "email": "rahman@cse.green.edu.bd",
+      "image_url": "https://archive-site.green.edu.bd/wp-content/uploads/2020/10/Mamunur_Sir.png"
+    },
+    {
+      "name": "Mr. Romzan Alom",
+      "designation": "Lecturer Lab(Contractual)",
+      "email": "romzan@cse.green.edu.bd",
+      "image_url": "https://archive-site.green.edu.bd/wp-content/uploads/2017/08/profile-default.jpg"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "470386363165",
+    "firebase_url": "https://uni-connect-app-v1-default-rtdb.firebaseio.com",
+    "project_id": "uni-connect-app-v1",
+    "storage_bucket": "uni-connect-app-v1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:470386363165:android:53e177c6d9754a23c92ff4",
+        "android_client_info": {
+          "package_name": "com.example.uniconnect"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "470386363165-kuk18rankvso01vuv19kjo5fugtfmvsb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.uniconnect",
+            "certificate_hash": "dcb5b23b9ebf93f54e066a5c5de875189b881100"
+          }
+        },
+        {
+          "client_id": "470386363165-qsl7p9tfsa1rsv8ehjs002nk2a9kfc1r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCh0BIjeW-xi2H0AbHwvE7m59iL0f3J5MU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "470386363165-qsl7p9tfsa1rsv8ehjs002nk2a9kfc1r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,88 @@
+{
+  "Clcs_faculty_members": [
+    {
+      "name": "DR. SERAJUM MUNIRA",
+      "designation": "Director",
+      "email": "munira.eng@green.edu.bd",
+      "profile_pic": "https://archive-site.green.edu.bd/wp-content/uploads/2023/11/ERERJKH-3.png"
+    },
+    {
+      "name": "DR. MOHAMMAD AFZAL HOSSAIN KHAN",
+      "designation": "Assistant Professor",
+      "email": "afzal@jmc.green.edu.bd",
+      "profile_pic": "https://archive-site.green.edu.bd/wp-content/uploads/2017/11/Afzal_sir.jpg"
+    },
+    {
+      "name": "MD. RASEL KABIR",
+      "designation": "Assistant Professor",
+      "email": "rasel.gulc@green.edu.bd",
+      "profile_pic": "https://archive-site.green.edu.bd/wp-content/uploads/2021/03/Md.-Rasel-Kabir.jpg"
+    },
+    {
+      "name": "MR. ABDULLA AL MASUM",
+      "designation": "Assistant Professor & Assistant Program Coordinator of EAP",
+      "email": "masum.gulc@green.edu.bd",
+      "profile_pic": "https://archive-site.green.edu.bd/wp-content/uploads/2021/03/Abdulla-Al-Masum.jpg"
+    },
+    {
+      "name": "MS. SUMAIYA AFREEN",
+      "designation": "Assistant Professor & Assistant Program Coordinator of GED",
+      "email": "sumaiya.gulc@green.edu.bd",
+      "profile_pic": "https://siteadmin.green.edu.bd/uploads/images/faculty/2_1701250608_faculty_member.jpg"
+    },
+    {
+      "name": "MAMUNUR RASHID ZABER",
+      "designation": "Assistant Professor",
+      "email": "zaber.gulc@green.edu.bd",
+      "profile_pic": "https://archive-site.green.edu.bd/wp-content/uploads/2021/03/Mamunur-Rashid-Zaber.jpg"
+    },
+    {
+      "name": "RABBI ISLAM RASEL",
+      "designation": "Lecturer-GED",
+      "email": "rabbi.gulc@green.edu.bd",
+      "profile_pic": "https://archive-site.green.edu.bd/wp-content/uploads/2021/03/Md-Rabbi-Islam-Rasel-.jpg"
+    },
+    {
+      "name": "MR. MD JAHID HASAN",
+      "designation": "Lecturer",
+      "email": "jahid@gulc.green.edu.bd",
+      "profile_pic": "https://siteadmin.green.edu.bd/uploads/images/persons/dummy-person-photo.png"
+    },
+    {
+      "name": "Halima Akter Sathi",
+      "designation": "Lecturer",
+      "email": "asdf@asdf.com",
+      "profile_pic": "https://siteadmin.green.edu.bd/uploads/images/faculty/2_1701250608_faculty_member.jpg"
+    },
+    {
+      "name": "TAMAL NAG",
+      "designation": "Lecturer",
+      "email": "tamal.gulc@green.edu.bd",
+      "profile_pic": "https://archive-site.green.edu.bd/wp-content/uploads/2023/02/Tamal.jpg"
+    },
+    {
+      "name": "GULAM RABBANI",
+      "designation": "Lecturer (contractual)",
+      "email": "rabbani.gulc@green.edu.bd",
+      "profile_pic": "https://siteadmin.green.edu.bd/uploads/images/persons/dummy-person-photo.png"
+    },
+    {
+      "name": "TABASSUM AKTAR",
+      "designation": "Lecturer (Contractual)",
+      "email": "tabassum.gulc@green.edu.bd",
+      "profile_pic": "https://siteadmin.green.edu.bd/uploads/images/faculty/2_1701250608_faculty_member.jpg"
+    },
+    {
+      "name": "Tanzia Mobarak Monisha",
+      "designation": "Lecturer (Study Leave)",
+      "email": "tanzia.gulc@green.edu.bd",
+      "profile_pic": "https://siteadmin.green.edu.bd/uploads/images/faculty/2_1701250608_faculty_member.jpg"
+    },
+    {
+      "name": "Md. Samsuzzaman",
+      "designation": "Intern Officer (Cont.)",
+      "email": "samsuzzaman.gulc@green.edu.bd",
+      "profile_pic": "https://siteadmin.green.edu.bd/uploads/images/faculty/2_1713866667_faculty_member.jpg"
+    }
+  ]
+}

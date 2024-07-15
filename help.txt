@@ -1,0 +1,20 @@
+launcher: dart run icons_launcher:create
+flutter clean
+
+Apk build: flutter build apk --split-per-abi
+
+Actual results:
+Both APK's have a different size.
+flutter run --release has 5.9MB
+flutter build apk --release has 15.5MB
+
+##Firestore Data Example
+Collection Name: courses
+Document Fields:
+title (String)
+instructor (String)
+price (String)
+duration (String)
+imageUrl (String)
+downloadUrl (String)
+category (String, values can be All, Popular, New)

@@ -1,0 +1,71 @@
+{
+  "ENG_faculty_members": [
+    {
+      "name": "Prof. Dr. M Shahidullah",
+      "designation": "Dean (FASS) & Chairperson",
+      "email": "shahidullah@eng.green.edu.bd",
+      "imageUrl": "https://archive-site.green.edu.bd/wp-content/uploads/2022/07/Shahidullah-Sir-2.jpg"
+    },
+    {
+      "name": "Dr. Serajum Munira",
+      "designation": "Associate Professor",
+      "email": "munira@eng.green.edu.bd",
+      "imageUrl": "https://archive-site.green.edu.bd/wp-content/uploads/2017/09/Munira-Mem.png"
+    },
+    {
+      "name": "Dr. Md. Elham Hossain",
+      "designation": "Associate Professor",
+      "email": "elham@eng.green.edu.bd",
+      "imageUrl": "https://archive-site.green.edu.bd/wp-content/uploads/2024/04/Elham-Hossain-01.jpg"
+    },
+    {
+      "name": "Dr. Md. Shamim Mondol",
+      "designation": "Associate Professor",
+      "email": "shamim@eng.green.edu.bd",
+      "imageUrl": "https://archive-site.green.edu.bd/wp-content/uploads/2017/09/2_1700054308_faculty_member.png.jpg"
+    },
+    {
+      "name": "Mr. Mohammad Golam Mohiuddin",
+      "designation": "Assistant Professor ",
+      "email": "mohiuddin@eng.green.edu.bd",
+      "imageUrl": "https://archive-site.green.edu.bd/wp-content/uploads/2017/11/MOHAMMAD-GOLAM-MOHIUDDIN.jpg"
+    },
+    {
+      "name": "Ms. Aklima Akter",
+      "designation": "Lecturer",
+      "email": "aklima@eng.green.edu.bd",
+      "imageUrl": "https://archive-site.green.edu.bd/wp-content/uploads/2019/10/aklima-eng.jpg"
+    },
+    {
+      "name": "Md. Zohorul Islam",
+      "designation": "Lecturer and Program Coordinator",
+      "email": "zohorul@eng.green.edu.bd",
+      "imageUrl": "https://archive-site.green.edu.bd/wp-content/uploads/2021/05/Zohorul-Islam.jpg"
+    },
+    {
+      "name": "Hazzaz Al Abtahee Nijhum",
+      "designation": " Lecturer & Assistant Program Coordinator",
+      "email": "abtahee@eng.green.edu.bd",
+      "imageUrl": "https://archive-site.green.edu.bd/wp-content/uploads/2023/02/Hazzaz1.jpg"
+    },
+    {
+      "name": "M. Ashiqur Rahaman Sourav",
+      "designation": "Lecturer ",
+      "email": "sourav@eng.green.edu.bd",
+      "imageUrl": "https://archive-site.green.edu.bd/wp-content/uploads/2018/12/Person.jpg"
+    },
+    {
+      "name": "Ms. Atiya Fairooz",
+      "designation": "Lecturer ",
+      "email": "atiya@eng.green.edu.bd",
+      "imageUrl": "https://archive-site.green.edu.bd/wp-content/uploads/2023/11/Eng2.png"
+    },
+    {
+      "name": "Ms. Samsad Sultana",
+      "designation": "Lecturer (Contractual)",
+      "email": "samsad@eng.green.edu.bd",
+      "imageUrl": "https://archive-site.green.edu.bd/wp-content/uploads/2023/11/Untitlejjd-1.jpg"
+    }
+  ]
+
+}

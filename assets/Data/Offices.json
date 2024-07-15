@@ -1,0 +1,523 @@
+{
+  "offices": [
+    {
+      "name": "Prof. Dr. Mohammad Shorif Uddin",
+      "designation": "Vice Chancellor",
+      "email": "vc@green.edu.bd",
+      "room": "Room 401-4th Floor, Admin Building",
+      "profile_pic": "https://siteadmin.green.edu.bd/uploads/images/admin/2_1715848240_admin-staff.png"
+    },
+    {
+      "name": "Prof. Dr. Khawza Iftekhar Uddin Ahmed",
+      "designation": "Pro Vice Chancellor",
+      "email": "pro-vc@green.edu.bd",
+      "room": "4th Floor, Admin Building",
+      "profile_pic": "https://siteadmin.green.edu.bd/uploads/images/admin/2_1709525524_admin-staff.png"
+    },
+    {
+      "name": "Prof. Dr. Md. Fayzur Rahman",
+      "designation": "Treasurer",
+      "email": "drfayzur@eee.green.edu.bd",
+      "room": "3rd Floor, Admin Building",
+      "profile_pic": "https://siteadmin.green.edu.bd/uploads/images/admin/2_1713714771_admin-staff.jpg"
+    },
+    {
+      "name": "Captain (Navy) S M Salahuddin",
+      "designation": "Registrar",
+      "email": "registrar@green.edu.bd",
+      "room": "2nd Floor, Admin Building",
+      "profile_pic": "https://siteadmin.green.edu.bd/uploads/images/admin/2_1707301168_admin-staff.png"
+    },
+    {
+        "name": "Md. Saiful Islam",
+        "designation": "Joint Registrar",
+        "email": "saiful.ro@green.edu.bd",
+        "room": "2nd Floor, Admin Building",
+        "profile_pic": "https://siteadmin.green.edu.bd/uploads/images/admin/2_1699933142_admin-staff.png"
+      },
+      {
+        "name": "Mahmudur Rahman",
+        "designation": "Deputy Registrar",
+        "email": "mahmud.deputy@green.edu.bd",
+        "room": "2nd Floor, Admin Building",
+        "profile_pic": "https://siteadmin.green.edu.bd/uploads/images/admin/2_1699939883_admin-staff.jpg"
+      },
+      {
+        "name": "Md. Mahbubur Rahman",
+        "designation": "Deputy Registrar",
+        "email": "shahin.ar@green.edu.bd",
+        "room": "2nd Floor, Admin Building",
+        "profile_pic": "https://siteadmin.green.edu.bd/uploads/images/admin/2_1699939834_admin-staff.jpg"
+      },
+      {
+        "name": "Nurun Nahar Begum",
+        "designation": "Senior HR Officer",
+        "email": "nahar.admin@green.edu.bd",
+        "room": "2nd Floor, Admin Building",
+        "profile_pic": "https://siteadmin.green.edu.bd/uploads/images/admin/2_1697524156_admin-staff.jpg"
+      },
+      {
+        "name": "Md. Shaheen Hawlader",
+        "designation": "Senior HR Officer",
+        "email": "shaheen.ro.hr@green.edu.bd",
+        "room": "2nd Floor, Admin Building",
+        "profile_pic": "https://siteadmin.green.edu.bd/uploads/images/admin/2_1697524269_admin-staff.jpg"
+      },
+      {
+        "name": "Humyra Mahzabin Khan",
+        "designation": "Senior Officer",
+        "email": "humyra.ro@green.edu.bd",
+        "room": "2nd Floor, Admin Building",
+        "profile_pic": "https://siteadmin.green.edu.bd/uploads/images/admin/2_1702030530_admin-staff.jpg"
+      },
+      {
+        "name": "Md. Azim Khan",
+        "designation": "Manager, Sports and Campus Services",
+        "email": "azim.sa@green.edu.bd",
+        "room": "2nd Floor, Admin Building, Room 208",
+        "profile_pic": "https://siteadmin.green.edu.bd/uploads/images/admin/2_1710142418_admin-staff.jpg"
+      },
+      {
+        "name": "Md. Azazul Haq Sarkar",
+        "designation": "Junior Officer (HR)",
+        "email": "azazul.ro.hr@green.edu.bd",
+        "room": "2nd Floor, Admin Building",
+        "profile_pic": "https://siteadmin.green.edu.bd/uploads/images/admin/2_1699942180_admin-staff.jpg"
+      },
+     
+    {
+      "name": "Dr. Md. Mostafijur Rahman",
+      "designation": "Controller of Examinations",
+      "email": "controller.exam@green.edu.bd",
+      "room": "3rd Floor, Admin Building",
+      "profile_pic": "https://siteadmin.green.edu.bd/uploads/images/admin/2_1701747176_admin-staff.jpg"
+    },
+    {
+        "name": "Mohammad Tarek Bin Zaman",
+        "designation": "Deputy Controller of Exams",
+        "email": "tarek.exams@green.edu.bd",
+        "room": "3rd Floor, Admin Building",
+        "profile_pic": "https://siteadmin.green.edu.bd/uploads/images/admin/2_1699944955_admin-staff.jpg"
+      },
+      {
+        "name": "Mafia Akhter",
+        "designation": "Assistant Controller of Exams",
+        "email": "mafia.exam@green.edu.bd",
+        "room": "3rd Floor, Admin Building",
+        "profile_pic": "https://siteadmin.green.edu.bd/uploads/images/admin/2_1699944222_admin-staff.jpg"
+      },
+      {
+        "name": "Nazir Hosain",
+        "designation": "Assistant Controller of Exams",
+        "email": "nazir.exam@green.edu.bd",
+        "room": "3rd Floor, Admin Building",
+        "profile_pic": "https://siteadmin.green.edu.bd/uploads/images/admin/2_1699943695_admin-staff.jpg"
+      },
+      {
+        "name": "Md. Mahfuzur Rahman",
+        "designation": "Senior Exam Officer",
+        "email": "mahfuz.exam@green.edu.bd",
+        "room": "3rd Floor, Admin Building",
+        "profile_pic": "https://siteadmin.green.edu.bd/uploads/images/persons/dummy-person-photo.png"
+      },
+      {
+        "name": "Moriyom Akter",
+        "designation": "Senior Exam Officer",
+        "email": "moriyom.exam@green.edu.bd",
+        "room": "3rd Floor, Admin Building",
+        "profile_pic": "https://siteadmin.green.edu.bd/uploads/images/admin/2_1699944663_admin-staff.jpg"
+      },
+      {
+        "name": "A.K.M. Moniruzzaman Talukder",
+        "designation": "Senior Section Officer",
+        "email": "monir.exam@green.edu.bd",
+        "room": "3rd Floor, Admin Building",
+        "profile_pic": "https://siteadmin.green.edu.bd/uploads/images/persons/dummy-person-photo.png"
+      },
+    {
+      "name": "Md. Ashraful Anowar ACS",
+      "designation": "Director, F&A",
+      "email": "director.af@green.edu.bd",
+      "room": "3rd Floor-303, Admin",
+      "profile_pic": "https://siteadmin.green.edu.bd/uploads/images/admin/2_1697520434_admin-staff.jpg"
+    },
+    {
+        "name": "Mohammod Khorshed Alam",
+        "designation": "Deputy Director, F&A",
+        "email": "khorshed.af@green.edu.bd",
+        "room": "3rd Floor-303, Admin Building",
+        "profile_pic": "https://siteadmin.green.edu.bd/uploads/images/admin/2_1697523109_admin-staff.jpg"
+      },
+      {
+        "name": "Sk. Rajibul Islam",
+        "designation": "Assistant Director, F&A",
+        "email": "rajib.af@green.edu.bd",
+        "room": "3rd Floor-303, Admin Building",
+        "profile_pic": "https://siteadmin.green.edu.bd/uploads/images/admin/2_1702536622_admin-staff.jpg"
+      },
+      {
+        "name": "Md. Tofazzal Hossain",
+        "designation": "Senior Accounts Officer",
+        "email": "tofazzal.acc@green.edu.bd",
+        "room": "3rd Floor-303, Admin Building",
+        "profile_pic": "https://siteadmin.green.edu.bd/uploads/images/admin/2_1697523368_admin-staff.jpg"
+      },
+      {
+        "name": "Kazi Alamgir Kabir",
+        "designation": "Senior Accounts Officer",
+        "email": "alamgir.af@green.edu.bd",
+        "room": "3rd Floor-303, Admin Building",
+        "profile_pic": "https://siteadmin.green.edu.bd/uploads/images/admin/2_1697523557_admin-staff.jpg"
+      },
+      {
+        "name": "Mohammad Alaul Islam",
+        "designation": "Accounts Officer",
+        "email": "alaul.af@green.edu.bd",
+        "room": "3rd Floor-303, Admin Building",
+        "profile_pic": "https://siteadmin.green.edu.bd/uploads/images/admin/2_1702459936_admin-staff.jpg"
+      },
+      {
+        "name": "Muhammad Sharukh Jaman Khan",
+        "designation": "Accounts Officer",
+        "email": "sharukh.af@green.edu.bd",
+        "room": "3rd Floor-303, Admin Building",
+        "profile_pic": "https://siteadmin.green.edu.bd/uploads/images/admin/2_1702540042_admin-staff.jpg"
+      },
+    {
+      "name": "Md. Mazharul Islam",
+      "designation": "Joint Registrar (Admission)",
+      "email": "mazhar@green.edu.bd",
+      "room": "Ground Floor, Admin Building",
+      "profile_pic": "https://siteadmin.green.edu.bd/uploads/images/admin/2_1697525442_admin-staff.jpg"
+    },
+    {
+        "name": "Md. Moniruzzaman",
+        "designation": "Senior Admission Officer",
+        "email": "zaman.ad@green.edu.bd",
+        "room": "GUB City Information Center",
+        "profile_pic": "https://siteadmin.green.edu.bd/uploads/images/admin/2_1699945655_admin-staff.jpg"
+      },
+      {
+        "name": "Kamrul Islam",
+        "designation": "Senior Admission Officer",
+        "email": "kamrul.ro.ad@green.edu.bd",
+        "room": "Ground Floor, Admin Building",
+        "profile_pic": "https://siteadmin.green.edu.bd/uploads/images/admin/2_1699946004_admin-staff.jpg"
+      },
+      {
+        "name": "Md. Sourav Hosen",
+        "designation": "Officer (Admission & Marketing)",
+        "email": "sourav.ro.ad@green.edu.bd",
+        "room": "Ground Floor, Admin Building",
+        "profile_pic": "https://siteadmin.green.edu.bd/uploads/images/admin/2_1699948297_admin-staff.jpg"
+      },
+      {
+        "name": "Tajmeem",
+        "designation": "Officer (Admission & Marketing)",
+        "email": "tajmeem.ro.ad@green.edu.bd",
+        "room": "Ground Floor, Admin Building",
+        "profile_pic": "https://siteadmin.green.edu.bd/uploads/images/admin/2_1710832673_admin-staff.jpg"
+      },
+      {
+        "name": "Naeem Ahmad",
+        "designation": "Jr. Officer (Add. & Markt.), Contractual",
+        "email": "Naeem.ro.ad@green.edu.bd",
+        "room": "Ground Floor, Academic Building",
+        "profile_pic": "https://siteadmin.green.edu.bd/uploads/images/admin/2_1699948845_admin-staff.jpg"
+      },
+    {
+      "name": "Dr. Faiz Al Faisal",
+      "designation": "Director",
+      "email": "faisal@cse.green.edu.bd",
+      "room": "F, Annex Building",
+      "profile_pic": "https://siteadmin.green.edu.bd/uploads/images/admin/2_1699931851_admin-staff.jpg"
+    },
+    {
+        "name": "Md. Mahmudul Islam Shawon",
+        "designation": "Deputy Director IT",
+        "email": "shawon.it@green.edu.bd",
+        "room": "Admin Building, 3rd Floor 301",
+        "profile_pic": "https://siteadmin.green.edu.bd/uploads/images/admin/2_1697446457_admin-staff.png"
+      },
+      {
+        "name": "Md. Rushad Bin Sayeed",
+        "designation": "Senior IT Officer",
+        "email": "rushad.it@green.edu.bd",
+        "room": "Admin Building, 6th Floor 604",
+        "profile_pic": "https://siteadmin.green.edu.bd/uploads/images/admin/2_1697446524_admin-staff.jpg"
+      },
+      {
+        "name": "Md. Saidur Rahman",
+        "designation": "Web Developer",
+        "email": "saidur.it@green.edu.bd",
+        "room": "Admin Building, 6th Floor 604",
+        "profile_pic": "https://siteadmin.green.edu.bd/uploads/images/admin/2_1711335415_admin-staff.jpg"
+      },
+      {
+        "name": "Jyoti Ranjan Dey",
+        "designation": "System Support and Network Engineer",
+        "email": "jyoti.it@green.edu.bd",
+        "room": "Admin Building, 6th Floor 604",
+        "profile_pic": "https://siteadmin.green.edu.bd/uploads/images/admin/2_1697446516_admin-staff.jpg"
+      },
+      {
+        "name": "Md. Abdullah Antor",
+        "designation": "Junior IT Officer",
+        "email": "antor.it@green.edu.bd",
+        "room": "Admin Building, 6th Floor 604",
+        "profile_pic": "https://siteadmin.green.edu.bd/uploads/images/admin/2_1697446353_admin-staff.jpg"
+      },
+      {
+        "name": "Md. Iqbal Jahan",
+        "designation": "Junior Network & System Support Engineer",
+        "email": "iqbal.it@green.edu.bd",
+        "room": "Admin Building, 6th Floor 604",
+        "profile_pic": "https://siteadmin.green.edu.bd/uploads/images/admin/2_1715923731_admin-staff.jpg"
+      },
+      {
+        "name": "Md. Amir Hossain",
+        "designation": "Junior IT Officer",
+        "email": "amir.it@green.edu.bd",
+        "room": "Admin Building, 6th Floor 604",
+        "profile_pic": "https://siteadmin.green.edu.bd/uploads/images/admin/2_1715923839_admin-staff.jpg"
+      },
+    {
+      "name": "Dr. Md. Mehedi Hasan",
+      "designation": "Proctor (Acting)",
+      "email": "mehedi@law.green.edu.bd",
+      "room": "F, Annex Building",
+      "profile_pic": "https://siteadmin.green.edu.bd/uploads/images/admin/2_1702533932_admin-staff.jpg"
+    },
+    {
+        "name": "Md. Rasel Kabir",
+        "designation": "Assistant Proctor",
+        "email": "rasel.gulc@green.edu.bd",
+        "room": "F, Annex Building",
+        "profile_pic": "https://siteadmin.green.edu.bd/uploads/images/admin/2_1700037932_admin-staff.jpg"
+      },
+      {
+        "name": "Dr. Md. Shariful Alam",
+        "designation": "Assistant Proctor",
+        "email": "shariful@tex.green.edu.bd",
+        "room": "F, Annex Building",
+        "profile_pic": "https://siteadmin.green.edu.bd/uploads/images/admin/2_1700038094_admin-staff.jpg"
+      },
+      {
+        "name": "Dr. Mohammad Delwar Hussain",
+        "designation": "Assistant Proctor",
+        "email": "delwar@bus.green.edu.bd",
+        "room": "F, Annex Building",
+        "profile_pic": "https://siteadmin.green.edu.bd/uploads/images/admin/2_1700038522_admin-staff.jpg"
+      },
+      {
+        "name": "Shamima Akter",
+        "designation": "Assistant Proctor",
+        "email": "shamima_akter@cse.green.edu.bd",
+        "room": "F, Annex Building",
+        "profile_pic": "https://siteadmin.green.edu.bd/uploads/images/admin/2_1700038735_admin-staff.jpg"
+      },
+    {
+      "name": "Md. Ashiqur Rahman",
+      "designation": "Deputy Librarian",
+      "email": "ashiq.library@green.edu.bd",
+      "room": "Ground Floor, Admin Building",
+      "profile_pic": "https://siteadmin.green.edu.bd/uploads/images/admin/2_1700030550_admin-staff.jpg"
+    },
+    {
+        "name": "Md. Tohidul Islam",
+        "designation": "Senior Library Officer",
+        "email": "tohidul.library@green.edu.bd",
+        "room": "Ground Floor, Admin Building",
+        "profile_pic": "https://siteadmin.green.edu.bd/uploads/images/admin/2_1710998169_admin-staff.jpg"
+      },
+      {
+        "name": "Md. Akramul Haque",
+        "designation": "Library Officer",
+        "email": "akram.library@green.edu.bd",
+        "room": "Ground Floor, Admin Building",
+        "profile_pic": "https://siteadmin.green.edu.bd/uploads/images/admin/2_1700028299_admin-staff.jpg"
+      },
+      {
+        "name": "Nawshaba Bulia",
+        "designation": "Library Officer",
+        "email": "nawshaba.library@green.edu.bd",
+        "room": "Ground Floor, Admin Building",
+        "profile_pic": "https://siteadmin.green.edu.bd/uploads/images/admin/2_1700030474_admin-staff.jpg"
+      },
+      {
+        "name": "Md Tanzimul Haque",
+        "designation": "Junior Library Officer",
+        "email": "tanzimul.library@green.edu.bd",
+        "room": "Ground Floor, Admin Building",
+        "profile_pic": "https://siteadmin.green.edu.bd/uploads/images/admin/2_1700031273_admin-staff.jpg"
+      },
+      {
+        "name": "Al Mamun Hossain",
+        "designation": "Junior Library Officer",
+        "email": "mamun.library@green.edu.bd",
+        "room": "Ground Floor, Admin Building",
+        "profile_pic": "https://siteadmin.green.edu.bd/uploads/images/admin/2_1702015837_admin-staff.jpg"
+      },
+      {
+        "name": "Md. Masud Rana",
+        "designation": "Book Sorter",
+        "email": "masud.library@green.edu.bd",
+        "room": "Ground Floor, Admin Building",
+        "profile_pic": "https://siteadmin.green.edu.bd/uploads/images/admin/2_1700031420_admin-staff.jpg"
+      },
+    {
+      "name": "Md. Perveze Khosru",
+      "designation": "Assistant Registrar (Coordination and Administration)",
+      "email": "parvez.ar@green.edu.bd",
+      "room": "Room#F-120, F Building",
+      "profile_pic": "https://siteadmin.green.edu.bd/uploads/images/admin/2_1699949489_admin-staff.jpg"
+    },
+    {
+      "name": "Chandana Sutradhar",
+      "designation": "Senior Coordination Officer, BBA & MBA",
+      "email": "chandana.sc@green.edu.bd",
+      "room": "F, Annex Building",
+      "profile_pic": "https://siteadmin.green.edu.bd/uploads/images/admin/2_1699949623_admin-staff.jpg"
+    },
+    {
+      "name": "Md. Ariful Islam",
+      "designation": "Senior Dept. Coordination Officer",
+      "email": "arif.sc@green.edu.bd",
+      "room": "F, Annex Building",
+      "profile_pic": "https://siteadmin.green.edu.bd/uploads/images/admin/2_1699950958_admin-staff.jpg"
+    },
+    {
+      "name": "Shariya Mahima",
+      "designation": "Senior Coordination Officer",
+      "email": "shariya.sc@green.edu.bd",
+      "room": "F, Annex Building",
+      "profile_pic": "https://siteadmin.green.edu.bd/uploads/images/admin/2_1699951048_admin-staff.jpg"
+    },
+    {
+      "name": "Mazeda Khanam",
+      "designation": "Senior Coordination Officer",
+      "email": "mkchapa.sc@green.edu.bd",
+      "room": "F, Annex Building",
+      "profile_pic": "https://siteadmin.green.edu.bd/uploads/images/admin/2_1714620169_admin-staff.png"
+    },
+    {
+      "name": "Parvin Khatun",
+      "designation": "Coordination Officer",
+      "email": "parvin.do.cse@green.edu.bd",
+      "room": "Room#F-138, F Building",
+      "profile_pic": "https://siteadmin.green.edu.bd/uploads/images/admin/2_1699951241_admin-staff.jpg"
+    },
+    {
+      "name": "Md. Sujaul Hossain",
+      "designation": "Deptartment Coordination Officer",
+      "email": "sujaul.jo@green.edu.bd",
+      "room": "F, Annex Building",
+      "profile_pic": "https://siteadmin.green.edu.bd/uploads/images/admin/2_1713336928_admin-staff.jpg"
+    },
+    {
+      "name": "Suraiya Akhter",
+      "designation": "Junior Coordination Officer",
+      "email": "suraiya.jo.cse@green.edu.bd",
+      "room": "Room#F-138, F Building",
+      "profile_pic": "https://siteadmin.green.edu.bd/uploads/images/admin/2_1699951487_admin-staff.jpg"
+    },
+    {
+      "name": "Eshita Jahan Shampa",
+      "designation": "Junior Coordination Officer",
+      "email": "eshita.do@green.edu.bd",
+      "room": "F, Annex Building",
+      "profile_pic": "https://siteadmin.green.edu.bd/uploads/images/admin/2_1699951562_admin-staff.jpg"
+    },
+    {
+      "name": "Iffat Ara Rimi",
+      "designation": "Junior Dept. Coordination Officer",
+      "email": "rimi.jo@green.edu.bd",
+      "room": "F, Annex Building",
+      "profile_pic": "https://siteadmin.green.edu.bd/uploads/images/admin/2_1699951919_admin-staff.jpg"
+    },
+    {
+      "name": "Mahmudur Rahman",
+      "designation": "Deputy Register",
+      "email": "mahmud.deputy@green.edu.bd",
+      "room": "Ground Floor, Admin Building",
+      "profile_pic": "https://siteadmin.green.edu.bd/uploads/images/admin/2_1701589089_admin-staff.jpg"
+    },
+    {
+      "name": "Mohammad Ali Khan",
+      "designation": "Senior Administrative Officer",
+      "email": "makhan.reg@green.edu.bd",
+      "room": "Ground Floor, Admin Building",
+      "profile_pic": "https://siteadmin.green.edu.bd/uploads/images/admin/2_1702628416_admin-staff.jpg"
+    },
+    {
+      "name": "Masudul Hasan",
+      "designation": "Admin Officer",
+      "email": "masud.ro@green.edu.bd",
+      "room": "Ground Floor, Admin Building",
+      "profile_pic": "https://siteadmin.green.edu.bd/uploads/images/admin/2_1699941018_admin-staff.jpg"
+    },
+    {
+      "name": "Md. Shahin Hossain",
+      "designation": "Transport Officer",
+      "email": "masud.ro@green.edu.bd",
+      "room": "Ground Floor, Admin Building",
+      "profile_pic": "https://siteadmin.green.edu.bd/uploads/images/admin/2_1702634193_admin-staff.jpg"
+    },
+    {
+      "name": "Md. Basher Uddin",
+      "designation": "Junior Officer",
+      "email": "basher.ro@green.edu.bd",
+      "room": "Ground Floor, Admin Building",
+      "profile_pic": "https://siteadmin.green.edu.bd/uploads/images/admin/2_1697524416_admin-staff.jpg"
+    },
+    {
+      "name": "Motiur Rahman",
+      "designation": "Assistant Director",
+      "email": "motiur.pro@green.edu.bd",
+      "room": "4th Floor, Admin Building",
+      "profile_pic": "https://siteadmin.green.edu.bd/uploads/images/admin/2_1697530933_admin-staff.jpg"
+    },
+    {
+      "name": "Md. Hamidul Hoq",
+      "designation": "Senior Graphic Visualizer",
+      "email": "hamid.graphics@green.edu.bd",
+      "room": "4th Floor, Admin Building",
+      "profile_pic": "https://siteadmin.green.edu.bd/uploads/images/admin/2_1715144465_admin-staff.png"
+    },
+    {
+      "name": "Mahtab Hossain",
+      "designation": "Senior Video & Photographer cum Video Editor",
+      "email": "mahtab@green.edu.bd",
+      "room": "4th Floor, Admin Building",
+      "profile_pic": "https://siteadmin.green.edu.bd/uploads/images/admin/2_1697530875_admin-staff.jpg"
+    },
+    {
+      "name": "Dr. Mohammad Afzal Hossain Khan",
+      "designation": "Director",
+      "email": "director.sa@green.edu.bd",
+      "room": "F, Annex Building",
+      "profile_pic": "https://siteadmin.green.edu.bd/uploads/images/admin/2_1702029458_admin-staff.jpg"
+    },
+    {
+      "name": "Md. Solaiman Mia",
+      "designation": "Assistant Director",
+      "email": "ad.sa@green.edu.bd",
+      "room": "F, Annex Building",
+      "profile_pic": "https://siteadmin.green.edu.bd/uploads/images/admin/2_1700040087_admin-staff.jpg"
+    },
+    {
+      "name": "Tamzid Hossain",
+      "designation": "Junior Officer",
+      "email": "tamzid.sa@green.edu.bd",
+      "room": "Room: 118, F Building",
+      "profile_pic": "https://siteadmin.green.edu.bd/uploads/images/admin/2_1702025894_admin-staff.jpg"
+    },
+    {
+      "name": "Dr. Rajib Sutradhar",
+      "designation": "Medical Officer, MBBS, CCD (BIRDEM)",
+      "email": "Rajib.mc@green.edu.bd",
+      "room": "Room no: 104, Annex J-Building",
+      "profile_pic": "https://siteadmin.green.edu.bd/uploads/images/admin/2_1701076456_admin-staff.jpg"
+    }
+  ]
+}

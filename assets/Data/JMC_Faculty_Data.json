@@ -1,0 +1,35 @@
+{
+  "JMC_faculty_members": [
+    {
+      "name": "DR. MD. ALIUR RAHMAN",
+      "designation": "Chairperson",
+      "email": "arahman@jmc.green.edu.bd",
+      "imageUrl": "https://archive-site.green.edu.bd/wp-content/uploads/2019/01/ERERJKH-5.png"
+    },
+    {
+      "name": "MS. MONIRA SHORMIN",
+      "designation": "Assistant Professor",
+      "email": "monira@jmc.green.edu.bd",
+      "imageUrl": "https://archive-site.green.edu.bd/wp-content/uploads/2017/11/Untitled-1.png"
+    },
+    {
+      "name": "MD MAHADY HASAN",
+      "designation": "Lecturer",
+      "email": "mahady@jmc.green.edu.bd",
+      "imageUrl": "https://archive-site.green.edu.bd/wp-content/uploads/2022/09/werw3r.jpg"
+    },
+    {
+      "name": "MD. SHARIF UDDIN",
+      "designation": "sharif@jmc.green.edu.bd",
+      "email": "sharif@jmc.green.edu.bd",
+      "imageUrl": "https://archive-site.green.edu.bd/wp-content/uploads/2018/10/Md.-Sharif-Uddin.jpg"
+    },
+    {
+      "name": "MD. IBRAHIM AZAD",
+      "designation": "Lecturer",
+      "email": "ibrahim@jmc.green.edu.bd",
+      "imageUrl": "https://archive-site.green.edu.bd/wp-content/uploads/2024/05/Ibrahim.jpg"
+    }
+
+  ]
+}

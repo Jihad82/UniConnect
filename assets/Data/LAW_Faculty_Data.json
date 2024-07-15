@@ -1,0 +1,95 @@
+{
+  "LAW_faculty_members": [
+    {
+      "name": "Dr. Md. Arifuzzaman",
+      "designation": "Chairperson",
+      "email": "arif@law.green.edu.bd",
+      "imageUrl": "https://archive-site.green.edu.bd/wp-content/uploads/2020/07/Arif.law_.jpg"
+    },
+    {
+      "name": "Prof. Stephan Hobe",
+      "designation": "Honorary Professor",
+      "email": "",
+      "imageUrl": "https://archive-site.green.edu.bd/wp-content/uploads/2018/09/Law-2.png"
+    },
+    {
+      "name": "Dr. Md. Mehedi Hasan",
+      "designation": "Associate Professor",
+      "email": "mehedi@law.green.edu.bd",
+      "imageUrl": "https://archive-site.green.edu.bd/wp-content/uploads/2019/10/Untitled-1-8.jpg"
+    },
+    {
+      "name": "Mr. Md. Abu Nayem Miazi",
+      "designation": "Assistant Professor",
+      "email": "nayem@law.green.edu.bd",
+      "imageUrl": "https://archive-site.green.edu.bd/wp-content/uploads/2017/09/Untitled-1-1.jpg"
+    },
+    {
+      "name": "Ms. Mirza Farzana Iqbal Chowdhury",
+      "designation": "Assistant Professor",
+      "email": "farzana@law.green.edu.bd",
+      "imageUrl": "https://archive-site.green.edu.bd/wp-content/uploads/2018/04/farzana.law_.jpg"
+    },
+    {
+      "name": "Dr. Md. Habib Alam",
+      "designation": "Lecturer (Sr. Level)",
+      "email": "habib@law.green.edu.bd",
+      "imageUrl": "https://archive-site.green.edu.bd/wp-content/uploads/2021/06/habib.law_.jpg"
+    },
+    {
+      "name": "Shariful Islam",
+      "designation": "Lecturer",
+      "email": "shariful@law.green.edu.bd",
+      "imageUrl": "https://archive-site.green.edu.bd/wp-content/uploads/2019/10/Shariful-Islam.jpg"
+    },
+    {
+      "name": "Aynal Haque",
+      "designation": "Lecturer",
+      "email": "aynal@law.green.edu.bd",
+      "imageUrl": "https://archive-site.green.edu.bd/wp-content/uploads/2022/12/Aynal.jpg"
+    },
+    {
+      "name": "Faysal Abdullah",
+      "designation": "Lecturer",
+      "email": "faysal@law.green.edu.bd",
+      "imageUrl": "https://archive-site.green.edu.bd/wp-content/uploads/2023/11/Faisal-3.jpg"
+    },
+    {
+      "name": "Md. Mutasim Billah Kandaker",
+      "designation": "Lecturer",
+      "email": "mustasim@law.green.edu.bd",
+      "imageUrl": "https://archive-site.green.edu.bd/wp-content/uploads/2024/02/Md.-Mutasim-Billah-Kandaker.jpg"
+    },
+    {
+      "name": "Rafi Ahmed",
+      "designation": "Lecturer ",
+      "email": "rafi@law.green.edu.bd",
+      "imageUrl": "https://archive-site.green.edu.bd/wp-content/uploads/2024/02/Rafi-Ahmed.jpg"
+    },
+    {
+      "name": "Tanusree Devi Asha",
+      "designation": "Lecturer ",
+      "email": "asha@law.green.edu.bd",
+      "imageUrl": "https://archive-site.green.edu.bd/wp-content/uploads/2024/02/Tanusree-Devi-Asha.jpg"
+    },
+    {
+      "name": "Bishwajit Ghosh",
+      "designation": "Lecturer ",
+      "email": "bishwajit@law.green.edu.bd",
+      "imageUrl": "https://archive-site.green.edu.bd/wp-content/uploads/2024/02/Bishwajit-Ghosh.jpg"
+    },
+    {
+      "name": "Anika Nargis",
+      "designation": "Lecturer (Contractual)",
+      "email": "anika@law.green.edu.bd",
+      "imageUrl": "https://archive-site.green.edu.bd/wp-content/uploads/2024/02/Anika-Nargis.jpg"
+    },
+    {
+      "name": "Mr. K M Rakibul Islam",
+      "designation": "Lecturer (On Study Leave)",
+      "email": "rakibul@law.green.edu.bd",
+      "imageUrl": "https://archive-site.green.edu.bd/wp-content/uploads/2018/10/demo.jpg"
+    }
+  ]
+
+}

@@ -1,0 +1,142 @@
+{
+  "TEX_faculty_members": [
+    {
+      "name": "Prof. Dr. Nitai Chandra Sutradhar",
+      "designation": "Distinguished Professor and Chairperson",
+      "email": "chairman@tex.green.edu.bd",
+      "imageUrl": "https://archive-site.green.edu.bd/wp-content/uploads/2017/09/nitai-sir.jpg"
+    },
+    {
+      "name": "Prof. Dr. Md. Ismail Chowdhury",
+      "designation": "Professor",
+      "email": "ismail@tex.green.edu.bd",
+      "imageUrl": "https://archive-site.green.edu.bd/wp-content/uploads/2018/12/Person.jpg"
+    },
+    {
+      "name": "Dr. Jagannath Biswas",
+      "designation": "Associate Professor",
+      "email": "jbiswas@tex.green.edu.bd",
+      "imageUrl": "https://archive-site.green.edu.bd/wp-content/uploads/2018/12/Person.jpg"
+    },
+    {
+      "name": "Dr. Md. Shariful Alam",
+      "designation": "Associate Professor",
+      "email": "shariful@tex.green.edu.bd",
+      "imageUrl": "https://archive-site.green.edu.bd/wp-content/uploads/2018/12/Person.jpg"
+    },
+    {
+      "name": "Mr. Md. Mahbubur Rahman",
+      "designation": "Assistant Professor",
+      "email": "mahbub@tex.green.edu.bd",
+      "imageUrl": "https://archive-site.green.edu.bd/wp-content/uploads/2018/12/Person.jpg"
+    },
+    {
+      "name": "Dr. Md. Sohag Miah",
+      "designation": "Assistant Professor",
+      "email": "sohag@tex.green.edu.bd",
+      "imageUrl": "https://archive-site.green.edu.bd/wp-content/uploads/2024/03/Untitled-20.jpg"
+    },
+    {
+      "name": "Mr. Md Mazharul Helal",
+      "designation": "Lecturer",
+      "email": "mazharul@tex.green.edu.bd",
+      "imageUrl": "https://archive-site.green.edu.bd/wp-content/uploads/2018/12/Person.jpg"
+    },
+    {
+      "name": "Mr. Md Mutasim Uddiin",
+      "designation": "Lecturer",
+      "email": "mutasim@tex.green.edu.bd",
+      "imageUrl": "https://archive-site.green.edu.bd/wp-content/uploads/2018/10/Mutasim_tex.jpg"
+    },
+    {
+      "name": "Mr. Md. Al Amin Hossain",
+      "designation": "Lecturer",
+      "email": "alamin@tex.green.edu.bd",
+      "imageUrl": "https://archive-site.green.edu.bd/wp-content/uploads/2018/12/Person.jpg"
+    },
+    {
+      "name": "Ms. Nusrat Jahan Mousumi",
+      "designation": "Lecturer",
+      "email": "nusrat@tex.green.edu.bd",
+      "imageUrl": "https://archive-site.green.edu.bd/wp-content/uploads/2019/02/Nusrat-Jahan-Mousumi.jpg"
+    },
+    {
+      "name": "Md. Monir Hossan",
+      "designation": "Lecturer (Contructual)",
+      "email": "monir@tex.green.edu.bd",
+      "imageUrl": "https://archive-site.green.edu.bd/wp-content/uploads/2020/05/monir_tex.jpg"
+    },
+    {
+      "name": "Mr. Md. Kaikobad",
+      "designation": "Lecturer",
+      "email": "kaikobad@tex.green.edu.bd",
+      "imageUrl": "https://archive-site.green.edu.bd/wp-content/uploads/2021/03/Mr.-Md.-Kaikobad.jpg"
+    },
+    {
+      "name": "Mehnaz Jebin",
+      "designation": "Lecturer",
+      "email": "mehnaz@tex.green.edu.bd",
+      "imageUrl": "https://archive-site.green.edu.bd/wp-content/uploads/2021/06/Mehnaz-tex.jpg"
+    },
+    {
+      "name": "Mr. Md. Omar Faruque",
+      "designation": "Lecturer (Contractual) - Fabic Engineering",
+      "email": "faruque@tex.green.edu.bd",
+      "imageUrl": "https://archive-site.green.edu.bd/wp-content/uploads/2018/10/demo.jpg"
+    },
+    {
+      "name": "Ms. Faijun Farin",
+      "designation": "Lecturer",
+      "email": "faijunfarin@tex.green.edu.bd",
+      "imageUrl": "https://archive-site.green.edu.bd/wp-content/uploads/2022/03/farin.tex_.jpg"
+    },
+    {
+      "name": "Mr. Md Mubashwir Moshwan",
+      "designation": "Lecturer",
+      "email": "moshwan@tex.green.edu.bd",
+      "imageUrl": "https://archive-site.green.edu.bd/wp-content/uploads/2022/06/Mobasher-Sir.jpg"
+    },
+    {
+      "name": "Md.Sherazul Islam",
+      "designation": "Lecturer, (Contractual)",
+      "email": "sherazul@tex.green.edu.bd",
+      "imageUrl": "https://archive-site.green.edu.bd/wp-content/uploads/2018/10/demo.jpg"
+    },
+    {
+      "name": "Prasenjit Bhowmik",
+      "designation": "Lecturer (Contractual)-Chemistry",
+      "email": "bhowmik@tex.green.edu.bd",
+      "imageUrl": "https://archive-site.green.edu.bd/wp-content/uploads/2018/10/demo.jpg"
+    },
+    {
+      "name": "Emdadul Hoque",
+      "designation": "Lecturer, Chemistry (Contractual)",
+      "email": "emdadul@tex.green.edu.bd",
+      "imageUrl": "https://archive-site.green.edu.bd/wp-content/uploads/2018/10/demo.jpg"
+    },
+    {
+      "name": "Towhidur Rahman",
+      "designation": "Lecturer (Study Leave)",
+      "email": "towhidur@tex.green.edu.bd",
+      "imageUrl": "https://archive-site.green.edu.bd/wp-content/uploads/2018/10/demo.jpg"
+    },
+    {
+      "name": "Mr. Shibanul Haque",
+      "designation": "Lecturer (Study Leave)",
+      "email": "shibanul@tex.green.edu.bd",
+      "imageUrl": "https://archive-site.green.edu.bd/wp-content/uploads/2018/10/demo.jpg"
+    },
+    {
+      "name": "Mr. Md. Azizul Islam",
+      "designation": "Lecturer (Study Leave)",
+      "email": "azizul@tex.green.edu.bd",
+      "imageUrl": "https://archive-site.green.edu.bd/wp-content/uploads/2018/10/demo.jpg"
+    },
+    {
+      "name": "Mr. Md. Nakib- Ul- Hasan",
+      "designation": "Assistant Professor (Study Leave)",
+      "email": "nakib@tex.green.edu.bd",
+      "imageUrl": "https://archive-site.green.edu.bd/wp-content/uploads/2018/10/demo.jpg"
+    }
+  ]
+}
